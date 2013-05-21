@@ -1,8 +1,14 @@
 # Notepad++ Markdown Highlighting
 
+## Default Branch
+
++ Updated to use default colour style.
++ Basic syntax for html open bracket will highlight `<`.
++ Included pipe `|` keyword for tables syntax.
+
 ## Colors
 
-This style uses Bespin (light on dark) colors. You'll probably have to do some color editing to make it fit your chosen theme -- unfortunately user defined language styles can't inherit colors from their parent theme.
+This works for the 'Default' colour scheme.
 
 ## Style Guide
 
@@ -24,4 +30,4 @@ Because of limits of the generic Notepad++ user defined language lexer, highligh
   
 ## Extra nerdity
 
-  If you like the way this highlighter looks so much you want to read everything in it, there's a css file that lets you do just that. 
+  If you like the way this highlighter looks so much you want to read everything in it, there's a css file that lets you do just that.
